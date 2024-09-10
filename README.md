@@ -2,10 +2,6 @@
 
 A end-to-end data pipeline for analyzing job market sentiment using Microsoft Fabric, Azure Data Factory, and Power BI.
 
-## Project Overview
-
-![Flow Diagram](flow_diagram.jpg)
-
 This pipeline performs the following tasks:
 1. Ingests job listings from Bing API using Azure Data Factory
 2. Processes raw JSON data into structured Delta tables using Synapse
