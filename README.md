@@ -38,3 +38,5 @@ This pipeline performs the following tasks:
 - Data Activator
 - Microsoft Teams (for alerts)
 
+## Reference
+Youtube: [Mr. K Talks Tech - End to End Azure Data Engineering Project ](https://youtube.com/playlist?list=PLrG_BXEk3kXyEV0dzmAN-49tLrQsM0jUa&si=nzYbyesTKRcCZhaX)
