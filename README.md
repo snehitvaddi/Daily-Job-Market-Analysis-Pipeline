@@ -4,7 +4,7 @@ A end-to-end data pipeline for analyzing job market sentiment using Microsoft Fa
 
 ## Project Overview
 
-![Flow Diagram](images/flow_diagram.jpg)
+![Flow Diagram](flow_diagram.jpg)
 
 This pipeline performs the following tasks:
 1. Ingests job listings from Bing API using Azure Data Factory
@@ -15,8 +15,8 @@ This pipeline performs the following tasks:
 
 ## Dashboards
 <p float="left">
-  <img src="path/to/page1.jpg" width="49%" />
-  <img src="path/to/page2.jpg" width="49%" />
+  <img src="page1.jpg" width="49%" />
+  <img src="page2.jpg" width="49%" />
 </p>
 
 ## Key Features
