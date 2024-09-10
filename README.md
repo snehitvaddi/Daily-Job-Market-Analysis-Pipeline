@@ -1,10 +1,16 @@
 # Daily Job Market Sentiment Analysis Pipeline
 A end-to-end data pipeline for analyzing job market sentiment using Microsoft Fabric, Azure Data Factory, and Power BI.
 
-# Project Flow
+## Project Flow
 <a href="flow_diagram.jpg" target="_blank">
   <img src="flow_diagram.jpg" alt="Flow Diagram" width="60% align="center">
 </a>
+
+## Dashboards
+<p float="left">
+  <img src="page1.jpg" width="49%" />
+  <img src="page2.jpg" width="49%" />
+</p>
 
 # Flow
 This pipeline performs the following tasks:
@@ -13,12 +19,6 @@ This pipeline performs the following tasks:
 3. Conducts sentiment analysis on job listings using a pre-trained ML model
 4. Visualizes results in Power BI dashboards
 5. Orchestrates daily pipeline runs and implements alert systems
-
-## Dashboards
-<p float="left">
-  <img src="page1.jpg" width="49%" />
-  <img src="page2.jpg" width="49%" />
-</p>
 
 ## Key Features
 
